@@ -1,0 +1,8 @@
+---
+applications:
+ - name: sox
+   memory: 512M
+   disk_quota: 2048M
+   routes:
+   - route: 
+   command: npm run start-prod
