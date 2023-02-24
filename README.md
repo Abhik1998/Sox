@@ -23,7 +23,6 @@
 
 
 ### 1. Move to sox directory
-```
 
 Now go to the cloned repo directory:
 
